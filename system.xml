@@ -295,7 +295,6 @@
   <project name="platform/external/nfacct" path="external/nfacct"/>
   <project name="platform/external/nist-pkits" path="external/nist-pkits"/>
   <project name="platform/external/nist-sip" path="external/nist-sip"/>
-  <project name="platform/external/nos/host/generic" path="external/nos/host/generic"/>
   <project name="platform/external/noto-fonts" path="external/noto-fonts"/>
   <project name="platform/external/oauth" path="external/oauth"/>
   <project name="platform/external/objenesis" path="external/objenesis"/>
@@ -593,13 +592,10 @@
   <project clone-depth="1" name="platform/prebuilts/checkcolor" path="prebuilts/checkcolor"/>
   <project clone-depth="1" name="platform/prebuilts/checkstyle" path="prebuilts/checkstyle"/>
   <project clone-depth="1" name="platform/prebuilts/clang-tools" path="prebuilts/clang-tools"/>
-  <project clone-depth="1" name="platform/prebuilts/clang/host/linux-x86" path="prebuilts/clang/host/linux-x86"/>
   <project clone-depth="1" name="platform/prebuilts/cmdline-tools" path="prebuilts/cmdline-tools"/>
   <project clone-depth="1" name="platform/prebuilts/devtools" path="prebuilts/devtools"/>
   <project clone-depth="1" name="platform/prebuilts/fuchsia_sdk" path="prebuilts/fuchsia_sdk"/>
-  <project clone-depth="1" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"/>
   <project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"/>
-  <project clone-depth="1" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"/>
   <project clone-depth="1" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8"/>
   <project clone-depth="1" name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" path="prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8"/>
   <project clone-depth="1" name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9"/>

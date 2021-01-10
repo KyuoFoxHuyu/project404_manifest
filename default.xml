@@ -5,7 +5,9 @@
   <remote name="aosp"
           fetch="https://android.googlesource.com"
           review="https://android-review.googlesource.com/"
-          revision="refs/heads/master"/>
+          revision="refs/tags/android-11.0.0_r27"/>
+          
+  <include name="aosp.xml"/>
 
   <!-- CAF -->
   <remote name="caf_system"
