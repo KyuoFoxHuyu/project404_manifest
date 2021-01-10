@@ -101,7 +101,7 @@
   <project name="platform/external/cbor-java" path="external/cbor-java"/>
   <project name="platform/external/chromium-libpac" path="external/chromium-libpac"/>
   <project name="platform/external/chromium-trace" path="external/chromium-trace"/>
-  <project clone-depth="1" name="platform/external/chromium-webview" path="external/chromium-webview"/>
+  <project clone-depth="1" name="platform/external/chromium-webview" path="external/chromium-webview" revision="master"/>
   <project name="platform/external/clang" path="external/clang"/>
   <project name="platform/external/cldr" path="external/cldr"/>
   <project name="platform/external/cn-cbor" path="external/cn-cbor"/>
