@@ -295,6 +295,7 @@
   <project name="platform/external/nfacct" path="external/nfacct"/>
   <project name="platform/external/nist-pkits" path="external/nist-pkits"/>
   <project name="platform/external/nist-sip" path="external/nist-sip"/>
+  <project name="platform/external/nos/host/generic" path="external/nos/host/generic"/>
   <project name="platform/external/noto-fonts" path="external/noto-fonts"/>
   <project name="platform/external/oauth" path="external/oauth"/>
   <project name="platform/external/objenesis" path="external/objenesis"/>
